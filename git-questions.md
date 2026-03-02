@@ -6,7 +6,13 @@
 
 
 
-* git add <file-name>
+-git add <file-name>
+
+
+
+2. What is the command to commit to the repo and create a version?
+
+-git commit -m "<message>"
 
 
 
